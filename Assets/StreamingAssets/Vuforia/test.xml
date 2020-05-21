@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="C2H4" size="553.000000 555.000000" />
+    <ImageTarget name="C2H6" size="553.000000 555.000000" />
+    <ImageTarget name="C6H6" size="553.000000 555.000000" />
+    <ImageTarget name="HCL" size="553.000000 555.000000" />
+    <ImageTarget name="H2o" size="553.000000 555.000000" />
+    <ImageTarget name="NH3" size="553.000000 555.000000" />
+    <ImageTarget name="so4" size="616.000000 615.000000" />
+    <ImageTarget name="hydrogen" size="553.000000 555.000000" />
+    <ImageTarget name="maze1" size="618.000000 620.000000" />
+  </Tracking>
+</QCARConfig>
